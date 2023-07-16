@@ -1,0 +1,49 @@
+div{
+    border: 5px solid blue;
+    background-color: bisque;
+}
+
+h2{
+    color: blue;
+    font-size: 35px;
+    font-family: cursive;
+    font-style: italic;
+}
+
+img{
+    width: 400px;
+}
+
+p{
+    color: #a096a0;
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+a{
+    color: brown;
+    font-size: 40px;
+}
+
+.div2{
+    border-style: dashed;
+    background-color: yellow;
+}
+.div3{
+    border-style: dotted;
+    background-color: orange;
+}
+
+li{
+    font-size: 32px;
+    color: #756c6c;
+}
+
+.para1{
+    color: red;
+
+    font-size: 41px;
+}
